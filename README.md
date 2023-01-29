@@ -7,4 +7,4 @@ O TechBank é um banco com o intuito de inovar a área bancária com a tecnologi
 Segue abaixo a topoligia de rede desenvolvida no projeto:
 ![TOPOL](https://user-images.githubusercontent.com/95587339/214082193-b10e6419-8372-4275-8617-68c0fe012042.png)
 
-Você pode conferir um pouco mais sobre o projeto no PDF fixado no repositório!
+Clique <a href="https://github.com/VictorGoulartS/Projeto_TechBank/blob/main/Projeto%20TechBank.pdf">aqui</a> caso queira conferir um pouco mais sobre o projeto!
